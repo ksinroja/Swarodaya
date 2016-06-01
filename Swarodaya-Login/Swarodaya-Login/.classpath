@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="E:/workspace/Swarodaya-Login/WebContent/WEB-INF/lib/common-web-util.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/Swarodaya-Login/WebContent/WEB-INF/lib/jackson-annotations-2.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/Swarodaya-Login/WebContent/WEB-INF/lib/jackson-core-2.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/Swarodaya-Login/WebContent/WEB-INF/lib/jackson-databind-2.1.4.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/Swarodaya-Login/WebContent/WEB-INF/lib/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="E:/BSS/6.2.3/repository/lib/third-party/commons-lang-2.3.jar"/>
+	<classpathentry kind="lib" path="D:/KS/Swarodaya/lib/activation.jar"/>
+	<classpathentry kind="lib" path="D:/KS/Swarodaya/lib/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="D:/KS/Swarodaya/lib/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/KS/Swarodaya/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/KS/Swarodaya/lib/commons-digester-1.7.jar"/>
+	<classpathentry kind="lib" path="D:/KS/Swarodaya/lib/commons-lang-2.3.jar"/>
+	<classpathentry kind="lib" path="D:/KS/Swarodaya/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/KS/Swarodaya/lib/groovy-all-2.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/KS/Swarodaya/lib/iText-2.1.5.jar"/>
+	<classpathentry kind="lib" path="D:/KS/Swarodaya/lib/iText-2.1.7.js2.jar"/>
+	<classpathentry kind="lib" path="D:/KS/Swarodaya/lib/itextpdf-5.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/KS/Swarodaya/lib/jasperreports-5.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/KS/Swarodaya/lib/jasperreports-chart-themes-5.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/KS/Swarodaya/lib/jasperreports-core-renderer.jar"/>
+	<classpathentry kind="lib" path="D:/KS/Swarodaya/lib/jasperreports-expressions-0.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/KS/Swarodaya/lib/jasperreports-exprfunctions-0.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/KS/Swarodaya/lib/jasperreports-extensions-3.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/KS/Swarodaya/lib/jasperreports-fonts-5.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/KS/Swarodaya/lib/jasperreports-json.jar"/>
+	<classpathentry kind="lib" path="D:/KS/Swarodaya/lib/jasperreports-jtidy-r938.jar"/>
+	<classpathentry kind="lib" path="D:/KS/Swarodaya/lib/mail.jar"/>
+	<classpathentry kind="lib" path="D:/KS/Swarodaya/lib/spring.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

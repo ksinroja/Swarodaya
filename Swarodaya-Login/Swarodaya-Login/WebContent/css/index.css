@@ -1,0 +1,39 @@
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: 10px 10px;
+    margin-bottom: -1px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
+.cards .img {
+    width: 25px;
+    height: 25px;
+    float: left;
+    margin-right: 0.2em;
+    margin-bottom: 1em;
+}
+.btn-customcircle {
+    width: 20px;
+    height: 20px;
+    padding: 1px 0;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.428571429;
+}
+.custom-heading{
+	color: #398DB5 !important;
+    background-color: #F0F0F0 !important;
+    font-weight: bold;
+}
+.detail-lable{
+	color: #42BBF4;
+}
+.required .detail-lable:after{
+  content:" *";color:red;
+  font-size:14px;
+}
+#toDoUL p{
+	margin: 0px !important;
+}
